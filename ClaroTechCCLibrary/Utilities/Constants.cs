@@ -4,6 +4,7 @@
     {
         // CareConnnect Profiles
         public static string ProfileCCOrganization = "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Organization-1";
+        public static string ProfileCCLocation = "https://fhir.hl7.org.uk/STU3/StructureDefinition/CareConnect-Location-1";
 
         // CareConnect Extensions
         public static string ExtensionCCMainLocation = "https://fhir.hl7.org.uk/STU3/StructureDefinition/Extension-CareConnect-MainLocation-1";
